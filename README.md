@@ -15,3 +15,7 @@ http://www.jboss.org/jbossmc/
 http://excalibur.apache.org/
 ### Loom
 http://loom.codehaus.org/
+
+
+http://www.open-open.com/11.htm
+https://www.oschina.net/project/tag/173/aop?sort=view&lang=19&os=0
